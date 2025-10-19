@@ -1,0 +1,8 @@
+{
+  "name": "tempat-func",
+  "version": "1.0.0",
+  "description": "Kumpulan function custom buatan VinzzOfficial",
+  "main": "lib/index.js",
+  "author": "VinzzOfficial",
+  "license": "MIT"
+}
