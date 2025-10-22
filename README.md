@@ -1,3 +1,3 @@
 **JANGAN MALIANG FUNCT GOBLOK**
 ————————————————————
-Ketauan Maling Gua Cari Lu Ya!!!
+Ketauan Maling Gua Cari Lu Ya!!! ⚠️
